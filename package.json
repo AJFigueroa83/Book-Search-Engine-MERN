@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/AJFigueroa83/Book-Search-Engine-MERN/issues"
   },
-  "homepage": "https://github.com/AJFigueroa83/Book-Search-Engine-MERN#readme"
+  "homepage": "https://github.com/AJFigueroa83/Book-Search-Engine-MERN#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.10.0"
+  }
 }
