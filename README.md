@@ -35,9 +35,9 @@ Upon opening the page the user is able to start the search for books. If the use
 All contribuitons are welcome for this project. Please see my contact info below and feel free to reach out with any questions or suggestions.
 
 
-## Tests
+## Mock-Up
 
-N/A
+![Google Book Search homepage with search bar and gray and white background](./client/public/Screenshot%20Capture%20-%202022-09-07%20-%2020-22-54.png)
 
 ## Deployment
 
